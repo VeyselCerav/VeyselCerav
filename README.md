@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeyselCerav
-- 👀 I’m interested in ...Java and Kotlin
-- 🌱 I’m currently learning ...React and React Native
+- 👀 I’m interested in ...Python,Java,JS
+- 
 
 
 <!---
